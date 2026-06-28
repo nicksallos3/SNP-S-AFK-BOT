@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TEO_77AFF-ls3Y.aternos.me:19744",
+    "ip": "TEO_77AFF-ls3Y.aternos.me",
     "port":19744,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
